@@ -5,3 +5,5 @@ hoy es 11 de septiembre de 2019
 hoy es viernes 13 de septiembre 2019****
 
 prueba para rm --cached
+Hola soy el nuevo integrante Andres
+Hola soy el nuevo integrante Andres..
